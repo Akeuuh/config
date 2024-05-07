@@ -1,0 +1,9 @@
+{
+    "workspace.library": [
+        "/Users/axel/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/lua",
+        "/Users/axel/.local/share/nvim/lazy/lazy.nvim/lua",
+        "/Users/axel/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
