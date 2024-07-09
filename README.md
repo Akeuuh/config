@@ -60,3 +60,7 @@ yabai --start-service
 # start skhd
 skhd --start-service
 ```
+
+## FZF
+
+You can look at this [youtube video](https://www.youtube.com/watch?v=mmqDYw9C30I) to have all the informations related to installation and customization of this tool.
