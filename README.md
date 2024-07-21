@@ -17,26 +17,6 @@ You can find all the details of the installation on this [link](https://github.c
 brew install neovim
 ```
 
-### Install yabai
-
-Yabai allow you to manage all the windows on your mac. It is used with skhd to set a bunch of keymaps.
-
-You can find all the detail of the installation on this [link](<https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release)>)
-
-```
-brew install koekeishiya/formulae/yabai
-```
-
-### Install skhd
-
-Skhd is used to set keymap around you MacOS.
-
-You can find all the details of the installation on this [link](https://github.com/koekeishiya/skhd)
-
-```
-brew install koekeishiya/formulae/skhd
-```
-
 ### Install starship
 
 Starship is a minimalist and highly configurable zsh theme.
@@ -50,16 +30,6 @@ curl -sS https://starship.rs/install.sh | sh
 ## How to use
 
 Simply copy and paste all the content of this repo in your `/.config` folder.
-
-If you want to use yabai and skhd, you should start their services
-
-```
-# start yabai
-yabai --start-service
-
-# start skhd
-skhd --start-service
-```
 
 ## FZF
 
